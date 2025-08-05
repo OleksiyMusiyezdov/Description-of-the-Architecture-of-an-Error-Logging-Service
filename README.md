@@ -7,7 +7,6 @@ API Backend that receives, processes, and stores logs from client applications.
 Web Dashboard for developers to view, search, and analyze logged errors.
 Real-time Alerts via email notifications on critical errors.
 DevOps solution for scalable deployment, monitoring, and log storage optimization.
------
 
 Solution:
 
@@ -58,7 +57,7 @@ Justification:
 All mentioned technologies are widely used in the market to satisfy needs they were developed for. So it witnesses at least their reliability and possibilities for support.
 Additional Task: Developer Questions for the Platform Owner
 As a developer, formulate key questions for the platform owner to clarify requirements and expectations.
------
+
 Questions:
 What types of logs are needed? (errors, warnings, events) 	
 Expected daily log volume? 	
