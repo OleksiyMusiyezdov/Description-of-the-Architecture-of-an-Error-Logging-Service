@@ -1,5 +1,3 @@
-# Description-of-the-Architecture-of-an-Error-Logging-Service
-
 Task: Describe the Architecture of an Error Logging Service
 Overview
 You need to prepare a document describing how you would design an error logging service from scratch. Explain which technologies you would choose for the client library (SDK), backend API, database, web dashboard, and DevOps solution, and justify why these choices are optimal. 
@@ -75,3 +73,4 @@ Do you need integrations with third-party tools (Slack, Jira, etc.)?
 
 
 
+****
